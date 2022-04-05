@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Models", "NTier.Models\NTier.Models.csproj", "{5D77425C-AA86-45CC-843D-32A969C95DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Services", "NTier.Services\NTier.Services.csproj", "{3DEAF306-F424-4883-BD22-F4AA403014C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.ConsoleApp", "NTier.ConsoleApp\NTier.ConsoleApp.csproj", "{A9CF4BEB-E1E5-46A4-9BBE-035A5E963005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.DataObjects", "NTier.DataObjects\NTier.DataObjects.csproj", "{54BA32B7-C70F-4649-AD22-E6B883891031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D77425C-AA86-45CC-843D-32A969C95DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D77425C-AA86-45CC-843D-32A969C95DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D77425C-AA86-45CC-843D-32A969C95DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D77425C-AA86-45CC-843D-32A969C95DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEAF306-F424-4883-BD22-F4AA403014C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEAF306-F424-4883-BD22-F4AA403014C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEAF306-F424-4883-BD22-F4AA403014C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEAF306-F424-4883-BD22-F4AA403014C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CF4BEB-E1E5-46A4-9BBE-035A5E963005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CF4BEB-E1E5-46A4-9BBE-035A5E963005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CF4BEB-E1E5-46A4-9BBE-035A5E963005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CF4BEB-E1E5-46A4-9BBE-035A5E963005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54BA32B7-C70F-4649-AD22-E6B883891031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BA32B7-C70F-4649-AD22-E6B883891031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BA32B7-C70F-4649-AD22-E6B883891031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BA32B7-C70F-4649-AD22-E6B883891031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
